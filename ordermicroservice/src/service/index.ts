@@ -1,1 +1,1 @@
-export * from './Inventoryservice';
+export * from './inventoryservice';
