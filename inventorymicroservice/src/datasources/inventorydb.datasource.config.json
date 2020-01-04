@@ -1,0 +1,6 @@
+{
+  "name": "inventorydb",
+  "connector": "memory",
+  "localStorage": "",
+  "file": "./data/inventorydb.json"
+}

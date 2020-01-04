@@ -1,0 +1,6 @@
+{
+  "name": "orderdb",
+  "connector": "memory",
+  "localStorage": "",
+  "file": "./data/orderdb.json"
+}

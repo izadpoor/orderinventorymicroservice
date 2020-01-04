@@ -1,0 +1,14 @@
+{
+  "ids": {
+    "Inventory": 21
+  },
+  "models": {
+    "Inventory": {
+      "1": "{\"id\":1,\"name\":\"desk\",\"price\":110,\"availablestock\":20,\"isavailable\":true,\"office desk\":\"office desk\",\"additionalProp1\":{}}",
+      "17": "{\"id\":17,\"name\":\"chair\",\"price\":101,\"availablestock\":20,\"isavailable\":true,\"home chair\":\"string\",\"additionalProp1\":{}}",
+      "18": "{\"name\":\"lamp\",\"office lamp\":\"string\",\"price\":101,\"availablestock\":10,\"isavailable\":true,\"additionalProp1\":{},\"id\":18}",
+      "19": "{\"id\":19,\"name\":\"small desk\",\"price\":101,\"availablestock\":20,\"isavailable\":true,\"persoanl desk\":\"string\",\"additionalProp1\":{}}",
+      "20": "{\"name\":\"light\",\"light 22\":\"string\",\"price\":101,\"availablestock\":10,\"isavailable\":true,\"additionalProp1\":{},\"id\":20}"
+    }
+  }
+}
